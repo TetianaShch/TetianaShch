@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Tetiana 👋
 
-<!--
-**TetianaShch/TetianaShch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Front-End Developer  
+🌱 Currently learning and improving my skills through hands-on projects  
+📍 Cherkasy, Ukraine  
+---
+## 🛠 Tech Stack
+- HTML5, CSS3 (Responsive Design)
+- JavaScript (ES6+)
+- React
+- Git, GitHub
+- REST API (basic)
+---
+## 🚀 Projects
+- **Web Studio** — individual learning project  
+  Responsive single-page website built with HTML and CSS
+  
+- **FlowBloom** — team project  
+  Responsive landing page, responsible for footer implementation  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **QuantumJS** — team project  
+  Educational website, worked on footer and feedback section  
+---
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/tetiana-shcherbyna-08b9803a2/
+- Email: tshcherbinka@icloud.com
+---
+✨ Open to junior or trainee opportunities and continuous learning.
