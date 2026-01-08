@@ -1,8 +1,8 @@
 # Hi, I'm Tetiana 👋
 
 💻 Junior Front-End Developer  
-🌱 Currently learning and improving my skills through hands-on projects  
-📍 Cherkasy, Ukraine  
+🌱 Learning through hands-on projects  
+📍 Cherkasy, Ukraine
 ---
 ## 🛠 Tech Stack
 - HTML5, CSS3 (Responsive Design)
