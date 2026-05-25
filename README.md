@@ -1,28 +1,44 @@
 # Hi, I'm Tetiana 👋
 
-💻 Junior Front-End Developer  
-🌱 Learning through hands-on projects  
+💻 Junior Full Stack Developer
+🌱 Learning through hands-on projects and continuous practice
 📍 Cherkasy, Ukraine
----
-## 🛠 Tech Stack
-- HTML5, CSS3 (Responsive Design)
-- JavaScript (ES6+)
-- React
-- Git, GitHub
-- REST API (basic)
----
-## 🚀 Projects
-- **Web Studio** — individual learning project  
-  Responsive single-page website built with HTML and CSS
-  
-- **FlowBloom** — team project  
-  Responsive landing page, responsible for footer implementation  
 
-- **QuantumJS** — team project  
-  Educational website, worked on footer and feedback section  
 ---
+
+## 🛠 Tech Stack
+
+* HTML5, CSS3 (Responsive Design)
+* JavaScript (ES6+)
+* React
+* Node.js, Express.js
+* REST API
+* Git, GitHub
+* MongoDB (basic)
+
+---
+
+## 🚀 Projects
+
+* **Web Studio** — individual learning project
+  Responsive single-page website built with HTML and CSS
+
+* **FlowBloom** — team project
+  Responsive landing page, responsible for footer implementation
+
+* **QuantumJS** — team project
+  Educational website, worked on footer and feedback section
+
+* **Node.js REST API** — backend learning project
+  Built an Express server with routing, middleware, environment variables, and deployment workflow
+
+---
+
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/tetiana-shcherbyna-08b9803a2/
-- Email: tshcherbinka@icloud.com
+
+* LinkedIn: linkedin.com/in/tetiana-shcherbyna-08b9803a2
+* Email: [tshcherbinka@icloud.com](mailto:tshcherbinka@icloud.com)
+
 ---
-✨ Open to junior or trainee opportunities and continuous learning.
+
+✨ Open to junior or trainee Full Stack opportunities and continuous learning.
