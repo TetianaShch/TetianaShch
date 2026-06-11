@@ -1,36 +1,39 @@
 # Hi, I'm Tetiana 👋
 
 💻 Junior Full Stack Developer
-🌱 Learning through hands-on projects and continuous practice
-📍 Cherkasy, Ukraine
+🌱 Building practical web applications with modern JavaScript technologies
+📍 Ukraine
+---
+
+- HTML5, CSS3, Responsive Design
+- JavaScript (ES6+)
+- React
+- Node.js
+- Express.js
+- MongoDB
+- REST API
+- Git, GitHub
+- Vite
+- Postman
 
 ---
 
-## 🛠 Tech Stack
+🚀 Projects
 
-* HTML5, CSS3 (Responsive Design)
-* JavaScript (ES6+)
-* React
-* Node.js, Express.js
-* REST API
-* Git, GitHub
-* MongoDB (basic)
+• Web Studio
+Individual responsive website built with HTML and CSS.
 
----
+• FlowBloom
+Team project. Developed footer section, responsive layout and UI components.
 
-## 🚀 Projects
+• QuantumJS
+Team educational platform. Implemented footer and feedback section functionality.
 
-* **Web Studio** — individual learning project
-  Responsive single-page website built with HTML and CSS
-
-* **FlowBloom** — team project
-  Responsive landing page, responsible for footer implementation
-
-* **QuantumJS** — team project
-  Educational website, worked on footer and feedback section
-
-* **Node.js REST API** — backend learning project
-  Built an Express server with routing, middleware, environment variables, and deployment workflow
+• CHILLSCAPE
+Team full-stack web application for discovering travel destinations.
+Worked as Team Lead and contributed to both frontend and backend development.
+Implemented API integration, client-server interaction and data handling.
+Tech stack: React, Next.js, Node.js, Express.js, MongoDB, Git, GitHub.
 
 ---
 
