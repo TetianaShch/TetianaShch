@@ -35,7 +35,12 @@ Worked as Team Lead and contributed to both frontend and backend development.
 Implemented API integration, client-server interaction and data handling.
 Tech stack: React, Next.js, Node.js, Express.js, MongoDB, Git, GitHub.
 
----
+• Merge Fruits: Build Your Cafe
+Team landing page for a mobile game.
+Developed a responsive website as part of a team project.
+Implemented the Footer, Contact, FAQ, and Features (Swiper) sections, 
+and created the Privacy Policy and Terms of Service pages.
+Tech stack: HTML5, CSS3, JavaScript, Swiper, Git, GitHub.
 
 ## 📫 Contact
 
